@@ -28,11 +28,14 @@ Les films qui l'ont rendu célèbre par la suite sont _Memento_, _The Dark Knigh
 ## A.1.b - Identité visuelle
 Son œuvre explore la moralité humaine. Elle se nourrie des préoccupations philosophiques, sociologiques ou éthiques, la construction du temps et la malléabilité de la mémoire et de l'identité personnelle.  
 
-Sa societé de production Syncopy Inc. possède ce logo :  
+Sa societé de production Syncopy Inc. possède un logo :  
 ![Syncopy inc.](images/syncopy.jpg)
 
 ## A.1.c - Stratégie digitale
-Christopher Nolan ne possède ni site web ni réseaux sociaux, il a même dit qu'il n'utilisait pas de téléphone portable. C'est son équipe qui s'occupe de gérer sa boite mail et c'est sa femme qui gère toutes les affaires liées à leur maison de production : Syncopy Inc.
+**Constat**   
+Christopher Nolan ne possède ni site web ni réseaux sociaux, il a même dit qu'il n'utilisait pas de téléphone portable. Cela ne l'a jamais interessé et il interdit même l'usage des mobiles sur ses tournages.  
+C'est son équipe qui s'occupe de gérer sa boite mail et c'est sa femme qui gère toutes les affaires liées à leur maison de production : Syncopy Inc.
+
 ## A.2 - Cahier des charges
 
 ## A.3 - Planche de tendance
