@@ -50,7 +50,7 @@ Ces éléments peuvent être des captures d’écrans, des palettes de couleurs,
 - Choisir une convention de nommage, un vocabulaire facile à comprendre pour toutes les personnes impliquées où qui le seront à l’avenir.
 - Définir la charte graphique comme l’exemple ci-dessous :
   
-![Aperçu Design System](img_consignes/design_system.png)
+![Aperçu Design System](img_readme/design_system.png)
 
 ### Itération #A.5 - Maquetter le Header
 
@@ -59,7 +59,7 @@ Créer la maquette graphique du header de votre page web en choisissant parmi le
 - Présence de 2 à 3 textes.
 - Intégration à minima d’un web font et de deux au maximum.
   
-![Aperçu Design System](img_consignes/maquette_header.png)
+![Aperçu Design System](img_readme/maquette_header.png)
 ### Itération #A.6 - Zoning contenu principal
 
 - Faite une proposition de zoning des différentes sections de votre contenu.
@@ -79,7 +79,7 @@ Créer la maquette graphique du pied de page de votre page web en choisissant pa
 - Intégration à minima d’un web font et de deux au maximum.
 - Présence du formulaire d’inscription à la newsletter
   
-![Aperçu Design System](img_consignes/maquette_pied_page.png)
+![Aperçu Design System](img_readme/maquette_pied_page.png)
 ### Itération #A.9 - Responsive
 - Décliner la maquette au format Tablette et Mobile
 
