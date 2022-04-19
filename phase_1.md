@@ -1,6 +1,6 @@
 # Sommaire de la phase 1 
 
-#### A.1 - [Analyse](##A1.a)
+#### A.1 - [Analyse](##A.1.a)
 #### A.2 - [Cahier des charges](##A.2)
 #### A.3 - [Planche de tendances “moodboard”](##A.3)
 #### A.4 - [Design System](##A.4)
@@ -13,17 +13,27 @@
 ## A.1.a - Analyse
 _Qui est Christopher Nolan ?_
 
+**Christopher** _Jonathan James_ **Nolan** est un réalisateur, producteur et scénariste, monteur et producteur de cinéma britannico-américain.
+Il est né le 30 juillet 1970 à Westminster (Londres).
+
+Il se fait connaitre par un premier long métrage, *Following* qui a été tourné en noir et blanc et dans lequel il endosse plusieurs casquettes, notamment celles de directeur de la photographie, scénariste et réalisateur.
+Le film est présenté en 1998 au festival du film de Toronto. 
+Il remporte trois prix ce qui va lui permettre de se lancer dans la mise en scène du script présenté à Newmarket Films : _Memento_.  
+Le film, a totalisé près de 40 millions dollars au box-office, c'est un grand succès
+
+Les films qui l'ont rendu célèbre par la suite sont _Memento_, _The Dark Knight_, _Inception_ ou encore _Interstellar_
 
 ![Christopher Nolan réalisateur](images/Christopher-Nolan.jpg)
 
 ## A.1.b - Identité visuelle
+Son œuvre explore la moralité humaine. Elle se nourrie des préoccupations philosophiques, sociologiques ou éthiques, la construction du temps et la malléabilité de la mémoire et de l'identité personnelle.  
 
+Sa societé de production Syncopy Inc. possède ce logo :  
+![Syncopy inc.](images/syncopy.jpg)
 
 ## A.1.c - Stratégie digitale
-
-
+Christopher Nolan ne possède ni site web ni réseaux sociaux, il a même dit qu'il n'utilisait pas de téléphone portable. C'est son équipe qui s'occupe de gérer sa boite mail et c'est sa femme qui gère toutes les affaires liées à leur maison de production : Syncopy Inc.
 ## A.2 - Cahier des charges
-
 
 ## A.3 - Planche de tendance
 Fichier Figma disponible sur Github [moodboard Christopher Nolan](https://github.com/JoAnisky/andy_warhol_reflexion/blob/main/moodboard.fig "moodboard Christopher Nolan").
