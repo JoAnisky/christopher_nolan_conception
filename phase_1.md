@@ -48,10 +48,13 @@ C'est son équipe qui s'occupe de gérer sa boite mail et c'est sa femme qui gè
   Nolan ne possède aucun site web mais on peut s'inspirer des sites d'autres réalisateurs.
 
 - Arborescence du site
-  - Page d'accueil (News, à propos...).
-  - Réalisations (Galerie).
+  - Page d'accueil 
+  > News  
+  > A propos.
+  - Réalisations 
+  > Galerie d'images
   - Contact.
-  
+  > Formulaire de contact
 - Description fonctionnelle : 
   - Pop-up sur la page d'accueil pour abonnement à une newsletter.
   - Formulaire de contact.
@@ -59,9 +62,8 @@ C'est son équipe qui s'occupe de gérer sa boite mail et c'est sa femme qui gè
   - Page login.
   - Page Backoffice.
   
-- Contenu présent sur le site
 ## A.3 - Planche de tendance
-Fichier Figma disponible sur Github [moodboard Christopher Nolan](https://github.com/JoAnisky/andy_warhol_reflexion/blob/main/moodboard.fig "moodboard Christopher Nolan").
+Fichier Figma disponible sur Github [Moodboard Christopher Nolan](https://github.com/JoAnisky/andy_warhol_reflexion/blob/main/moodboard.fig "Moodboard Christopher Nolan").
 
 ## A.4 - Design System
 
