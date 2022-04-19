@@ -33,11 +33,33 @@ Sa societé de production Syncopy Inc. possède un logo :
 
 ## A.1.c - Stratégie digitale
 **Constat**   
-Christopher Nolan ne possède ni site web ni réseaux sociaux, il a même dit qu'il n'utilisait pas de téléphone portable. Cela ne l'a jamais interessé et il interdit même l'usage des mobiles sur ses tournages.  
+Christopher Nolan ne possède ni site web ni réseaux sociaux, il a même dit qu'il n'utilisait pas de téléphone portable.   
+Il ne déteste pas la technologie mais cela ne l'a jamais interessé et il interdit même l'usage des mobiles sur ses tournages.  
 C'est son équipe qui s'occupe de gérer sa boite mail et c'est sa femme qui gère toutes les affaires liées à leur maison de production : Syncopy Inc.
 
 ## A.2 - Cahier des charges
 
+**JoAnisky** est developpeur freelance. Son objectif est de rendre le web facile, moderne et accessible à tous.
+
+- La cible du site web.  
+  Tous les fans de cinéma et plus particulièrement des films de Nolan.
+
+- État des lieux de l’existant.  
+  Nolan ne possède aucun site web mais on peut s'inspirer des sites d'autres réalisateurs.
+
+- Arborescence du site
+  - Page d'accueil (News, à propos...).
+  - Réalisations (Galerie).
+  - Contact.
+  
+- Description fonctionnelle : 
+  - Pop-up sur la page d'accueil pour abonnement à une newsletter.
+  - Formulaire de contact.
+  - Galerie.
+  - Page login.
+  - Page Backoffice.
+  
+- Contenu présent sur le site
 ## A.3 - Planche de tendance
 Fichier Figma disponible sur Github [moodboard Christopher Nolan](https://github.com/JoAnisky/andy_warhol_reflexion/blob/main/moodboard.fig "moodboard Christopher Nolan").
 
