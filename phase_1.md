@@ -42,10 +42,12 @@ C'est son équipe qui s'occupe de gérer sa boite mail et c'est sa femme qui gè
 
 **JoAnisky** est developpeur freelance. Son objectif est de rendre le web facile, moderne et accessible à tous.
 
-- La cible du site web.  
+- La cible du site web :  
+
   Tous les fans de cinéma et plus particulièrement des films de Nolan.
 
-- État des lieux de l’existant.  
+- État des lieux de l’existant : 
+   
   Nolan ne possède aucun site web mais on peut s'inspirer des sites d'autres réalisateurs.
 
 - Arborescence du site
@@ -64,7 +66,7 @@ C'est son équipe qui s'occupe de gérer sa boite mail et c'est sa femme qui gè
   - Page Backoffice.
   
 ## A.3 - Planche de tendance
-Benchmark et moodboard => fichier Figma disponible sur Github [Moodboard Christopher Nolan](https://github.com/JoAnisky/andy_warhol_reflexion/blob/main/moodboard.fig  "Moodboard Christopher Nolan").
+Benchmark et moodboard => fichier Figma disponible sur Github [Moodboard Christopher Nolan](https://github.com/JoAnisky/christopher_nolan/blob/main/moodboard.fig  "Moodboard Christopher Nolan").
 
 ## A.4 - Design System
 
