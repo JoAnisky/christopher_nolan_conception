@@ -13,13 +13,13 @@
 ## A.1.a - Analyse
 _Qui est Christopher Nolan ?_
 
-**Christopher** _Jonathan James_ **Nolan** est un réalisateur, producteur et scénariste, monteur et producteur de cinéma britannico-américain.
+**Christopher** _Jonathan James_ **Nolan** est un réalisateur, producteur, scénariste et monteur de cinéma britannico-américain.
 Il est né le 30 juillet 1970 à Westminster (Londres).
 
-Il se fait connaitre par un premier long métrage, *Following* qui a été tourné en noir et blanc et dans lequel il endosse plusieurs casquettes, notamment celles de directeur de la photographie, scénariste et réalisateur.
+Il se fait connaitre par un premier long métrage, *Following* qui a été tourné en noir et blanc et dans lequel il endosse plusieurs casquettes, notamment celles de directeur de la photographie, scénariste et réalisateur.  
 Le film est présenté en 1998 au festival du film de Toronto. 
 Il remporte trois prix ce qui va lui permettre de se lancer dans la mise en scène du script présenté à Newmarket Films : _Memento_.  
-Le film, a totalisé près de 40 millions dollars au box-office, c'est un grand succès
+Ce dernier a totalisé près de 40 millions dollars au box-office, c'est un grand succès.
 
 Les films qui l'ont rendu célèbre par la suite sont _Memento_, _The Dark Knight_, _Inception_ ou encore _Interstellar_
 
@@ -33,7 +33,8 @@ Sa societé de production Syncopy Inc. possède un logo :
 
 ## A.1.c - Stratégie digitale
 **Constat**   
-Christopher Nolan ne possède ni site web ni réseaux sociaux, il a même dit qu'il n'utilisait pas de téléphone portable.   
+
+Christopher Nolan ne possède ni site web ni réseaux sociaux, il a même dit qu'il n'utilisait pas de téléphone portable.  
 Il ne déteste pas la technologie mais cela ne l'a jamais interessé et il interdit même l'usage des mobiles sur ses tournages.  
 C'est son équipe qui s'occupe de gérer sa boite mail et c'est sa femme qui gère toutes les affaires liées à leur maison de production : Syncopy Inc.
 
@@ -63,7 +64,7 @@ C'est son équipe qui s'occupe de gérer sa boite mail et c'est sa femme qui gè
   - Page Backoffice.
   
 ## A.3 - Planche de tendance
-Fichier Figma disponible sur Github [Moodboard Christopher Nolan](https://github.com/JoAnisky/andy_warhol_reflexion/blob/main/moodboard.fig "Moodboard Christopher Nolan").
+Benchmark et moodboard => fichier Figma disponible sur Github [Moodboard Christopher Nolan](https://github.com/JoAnisky/andy_warhol_reflexion/blob/main/moodboard.fig  "Moodboard Christopher Nolan").
 
 ## A.4 - Design System
 
