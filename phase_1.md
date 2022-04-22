@@ -40,39 +40,44 @@ C'est son équipe qui s'occupe de gérer sa boite mail et c'est sa femme qui gè
 
 ## A.2 - Cahier des charges
 
-**JoAnisky** est developpeur freelance. Son objectif est de rendre le web facile, moderne et accessible à tous.
+***JoAnisky*** est developpeur freelance. Son objectif est de rendre le web facile, moderne et accessible à tous.
 
-- La cible du site web :  
+**La cible du site web** :  
 
   Tous les fans de cinéma et plus particulièrement des films de Nolan.
 
-- État des lieux de l’existant : 
+**État des lieux de l’existant**
    
   Nolan ne possède aucun site web mais on peut s'inspirer des sites d'autres réalisateurs.
 
-- Arborescence du site
-  - Page d'accueil 
+**Arborescence du site**
+  
+  
+  - Home >
   > News  
-  > A propos.
-  - Réalisations 
-  > Galerie d'images
-  - Contact.
-  > Formulaire de contact
-- Description fonctionnelle : 
+  > About
+  - Filmography >
+  > Gallery
+  - Contact >
+  > Contact form
+
+**Description fonctionnelle**
   - Pop-up sur la page d'accueil pour abonnement à une newsletter.
   - Formulaire de contact.
   - Galerie.
   - Page login.
   - Page Backoffice.
-- Contenu présent sur le site :
+
 ## A.3 - Planche de tendance
-Benchmark et moodboard => fichier Figma disponible sur Github [Moodboard Christopher Nolan](https://github.com/JoAnisky/christopher_nolan/blob/main/moodboard.fig  "Moodboard Christopher Nolan").
+> Pour faciliter le projet, tout le travail de recherche graphique (Benchmark, moodboard, maquettes etc...) est centralisé dans le fichier  Figma "moodboard.fig"
+
+Benchmark et moodboard disponible sur Github >  [Benchmark/Moodboard Christopher Nolan](https://github.com/JoAnisky/christopher_nolan/blob/main/moodboard.fig  "Moodboard Christopher Nolan").
 
 ## A.4 - Design System
-Fichier Figma disponible sur Github [Benchmark/Moodboard/DesignSystem Christopher Nolan](https://github.com/JoAnisky/christopher_nolan/blob/main/moodboard.fig  "Moodboard Christopher Nolan").
+Github > [DesignSystem Christopher Nolan](https://github.com/JoAnisky/christopher_nolan/blob/main/moodboard.fig  "Moodboard Christopher Nolan").
 ## A.5 - Maquetter le Header
 
-## A.5 - Zoning contenu pricipal
+## A.5 - Zoning contenu principal
 
 ## A.5 - Maquetter contenu pricipal
 
