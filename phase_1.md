@@ -91,9 +91,11 @@ Proposition de design pour le header
 - Image de décoration qui récapitule les plus grands succès de Christopher Nolan. Effet "objectif" de caméra pour rappeller le cinéma.
 -  Mise en avant du nom du réalisateur.
   
-![Maquette](images/header_desktop_v1.jpg)
+![Maquette](images/desktop_header.jpg)
 
 ## A.5 - Zoning contenu principal
+
+![Desktop Content Zoning](images/desktop_content_zoning.jpg)
 
 ## A.5 - Maquetter contenu pricipal
 
