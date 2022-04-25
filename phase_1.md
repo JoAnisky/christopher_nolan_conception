@@ -13,7 +13,7 @@
 ## A.1.a - Analyse
 _Qui est Christopher Nolan ?_
 
-**Christopher** _Jonathan James_ **Nolan** est un réalisateur, producteur, scénariste et monteur de cinéma britannico-américain.
+**Christopher** _Jonathan James_ **Nolan** est un réalisateur, producteur, scénariste et monteur de cinéma britannico-américain.  
 Il est né le 30 juillet 1970 à Westminster (Londres).
 
 Il se fait connaitre par un premier long métrage, *Following* qui a été tourné en noir et blanc et dans lequel il endosse plusieurs casquettes, notamment celles de directeur de la photographie, scénariste et réalisateur.  
@@ -22,6 +22,8 @@ Il remporte trois prix ce qui va lui permettre de se lancer dans la mise en scè
 Ce dernier a totalisé près de 40 millions dollars au box-office, c'est un grand succès.
 
 Les films qui l'ont rendu célèbre par la suite sont _Memento_, _The Dark Knight_, _Inception_ ou encore _Interstellar_
+
+Il est cofondateur, avec _Emma Thomas_  sa femme, de sa propre societé de production _Syncopy Films_.
 
 ![Christopher Nolan réalisateur](images/Christopher-Nolan.jpg)
 
@@ -36,7 +38,7 @@ Sa societé de production Syncopy Inc. possède un logo :
 
 Christopher Nolan ne possède ni site web ni réseaux sociaux, il a même dit qu'il n'utilisait pas de téléphone portable.  
 Il ne déteste pas la technologie mais cela ne l'a jamais interessé et il interdit même l'usage des mobiles sur ses tournages.  
-C'est son équipe qui s'occupe de gérer sa boite mail et c'est sa femme qui gère toutes les affaires liées à leur maison de production : Syncopy Inc.
+C'est son équipe qui s'occupe de gérer sa boite mail et sa femme qui gère toutes les affaires liées à leur maison de production : Syncopy Inc.
 
 ## A.2 - Cahier des charges
 
