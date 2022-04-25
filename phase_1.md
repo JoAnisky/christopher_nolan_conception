@@ -43,8 +43,8 @@ C'est son équipe qui s'occupe de gérer sa boite mail et c'est sa femme qui gè
 ***JoAnisky*** est developpeur freelance. Son objectif est de rendre le web facile, moderne et accessible à tous.
 
 **La cible du site web** :  
-
-  Tous les fans de cinéma et plus particulièrement des films de Nolan.
+  Le grand public qui apprécie le cinéma.
+  Tous les fans des films de Nolan et de la science fiction en général.
 
 **État des lieux de l’existant**
    
@@ -70,12 +70,26 @@ C'est son équipe qui s'occupe de gérer sa boite mail et c'est sa femme qui gè
 
 ## A.3 - Planche de tendance
 > Pour faciliter le projet, tout le travail de recherche graphique (Benchmark, moodboard, maquettes etc...) est centralisé dans le fichier  Figma "moodboard.fig"
+Disponible sur Github   [Benchmark/Moodboard Christopher Nolan](https://github.com/JoAnisky/christopher_nolan/blob/main/moodboard.fig  "Moodboard Christopher Nolan").
 
-Benchmark et moodboard disponible sur Github >  [Benchmark/Moodboard Christopher Nolan](https://github.com/JoAnisky/christopher_nolan/blob/main/moodboard.fig  "Moodboard Christopher Nolan").
+**Benchmark**
 
+![Bnechmark](images/benchmark.jpg)
+
+**Moodboard**
+
+![Moodboard](images/moodboard.jpg)
 ## A.4 - Design System
+![Design System](images/design_system.jpg)
 Github > [DesignSystem Christopher Nolan](https://github.com/JoAnisky/christopher_nolan/blob/main/moodboard.fig  "Moodboard Christopher Nolan").
+
 ## A.5 - Maquetter le Header
+Proposition de design pour le header 
+- Barre de navigation haute.
+- Image de décoration qui récapitule les plus grands succès de Christopher Nolan. Effet "objectif" de caméra pour rappeller le cinéma.
+-  Mise en avant du nom du réalisateur.
+  
+![Maquette](images/header_desktop_v1.jpg)
 
 ## A.5 - Zoning contenu principal
 
