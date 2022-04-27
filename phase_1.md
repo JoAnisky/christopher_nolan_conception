@@ -76,13 +76,25 @@ Disponible sur Github   [Benchmark/Moodboard Christopher Nolan](https://github.c
 
 **Benchmark**
 
-![Bnechmark](images/benchmark.jpg)
+![Benchmark](images/benchmark.jpg)
+_Sources_ : 
+
+[Spielberg Website](https://www.spielbergfilmarchive.org.il/ "Spielberg Website")
+
+[Quentin Tarantino Website](https://www.tarantino.info/ "Quentin Tarantino Website")
+
+[Zack Snyder Website](https://www.snydercut.com/ "Zack Snyder Website")
+
 
 **Moodboard**
 
 ![Moodboard](images/moodboard.jpg)
+
+
 ## A.4 - Design System
+
 ![Design System](images/design_system.jpg)
+
 Github > [DesignSystem Christopher Nolan](https://github.com/JoAnisky/christopher_nolan/blob/main/moodboard.fig  "Moodboard Christopher Nolan").
 
 ## A.5 - Maquetter le Header
@@ -93,11 +105,11 @@ Proposition de design pour le header
   
 ![Maquette](images/desktop_header.jpg)
 
-## A.5 - Zoning contenu principal
+## A.6- Zoning contenu principal
 
 ![Desktop Content Zoning](images/desktop_content_zoning.jpg)
 
-## A.5 - Maquetter contenu pricipal
+## A.7 - Maquetter contenu principal
 
 ## A.8 - Maquetter le pied de page
 
