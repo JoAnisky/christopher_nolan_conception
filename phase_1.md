@@ -114,7 +114,7 @@ Proposition de design pour le header
 ![Desktop Content Zoning](images/desktop_content_zoning.jpg)
 
 ## A.7 - Maquetter contenu principal
-
+![MAquette Principal content](images/maquette_desktop_content.jpg)
 ## A.8 - Maquetter le pied de page
 
 ## A.9 - Responsive
