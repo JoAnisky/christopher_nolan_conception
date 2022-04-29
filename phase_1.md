@@ -58,8 +58,8 @@ C'est son équipe qui s'occupe de gérer sa boite mail et sa femme qui gère tou
   - Home >
   > News  
   > About
-  - Filmography >
-  > Gallery
+  - Gallery >
+  > Images Gallery
   - Contact >
   > Contact form
 
