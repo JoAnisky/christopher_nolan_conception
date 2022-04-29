@@ -72,7 +72,7 @@ C'est son équipe qui s'occupe de gérer sa boite mail et sa femme qui gère tou
 
 ## A.3 - Planche de tendance
 > Pour faciliter le projet, tout le travail de recherche graphique (Benchmark, moodboard, maquettes etc...) est centralisé dans le fichier  Figma "moodboard.fig"
-Disponible sur Github   [Benchmark/Moodboard Christopher Nolan](moodboard.fig  "Moodboard Christopher Nolan").
+Disponible sur Github [Benchmark/Moodboard Christopher Nolan](christopher_nolan_research.fig).
 
 **Benchmark**
 
@@ -99,7 +99,7 @@ _Sources_ :
 
 ![Design System](images/design_system.jpg)
 
-Github > [DesignSystem Christopher Nolan](moodboard.fig  "Moodboard Christopher Nolan").
+Github > [DesignSystem Christopher Nolan](christopher_nolan_research.fig).
 
 ## A.5 - Maquetter le Header
 Proposition de design pour le header 
