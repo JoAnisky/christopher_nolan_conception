@@ -111,7 +111,7 @@ Proposition de design pour le header
 
 ## A.6- Zoning contenu principal
 
-![Desktop Content Zoning](images/desktop_content_zoning.jpg)
+![Desktop Content Zoning](images/zoning_desktop_content.jpg)
  
 ## A.7 - Maquetter contenu principal
 ![MAquette Principal content](images/maquette_desktop_content.jpg)
