@@ -81,8 +81,9 @@ Créer la maquette graphique du pied de page de votre page web en choisissant pa
   
 ![Aperçu Design System](img_readme/maquette_pied_page.png)
 ### Itération #A.9 - Responsive
+
 - Décliner la maquette au format Tablette et Mobile
 
 # Le sujet choisi est le réalisateur Américain **Christopher Nolan**
 
-Le travail de la phase 1 se trouve dans le fichier [phase_1.md](https://github.com/JoAnisky/christopher_nolan/blob/main/phase_1.md) (lien Github) 
+Le travail de la phase 1 se trouve dans le fichier [phase_1.md](phase_1.md) (lien Github) 
