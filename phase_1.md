@@ -116,5 +116,5 @@ Proposition de design pour le header
 ## A.7 - Maquetter contenu principal
 ![MAquette Principal content](images/maquette_desktop_content.jpg)
 ## A.8 - Maquetter le pied de page
-
+![Maquette footer](images/maquette_desktop_footer.jpg)
 ## A.9 - Responsive
