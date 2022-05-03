@@ -118,3 +118,17 @@ Proposition de design pour le header
 ## A.8 - Maquetter le pied de page
 ![Maquette footer](images/maquette_desktop_footer.jpg)
 ## A.9 - Responsive 
+
+_Zoning mobile content_
+
+![Zoning mobile content](images/zoning_mobile_content.png)
+
+_Maquette Mobile Header_
+![Maquette Mobile Header](images/mobile_header.jpg)
+
+_Mobile Content_
+![Maquette Mobile Content](images/maquette_mobile_content.jpg)
+
+_Mobile Footer_
+
+![Maquette Mobile Footer](images/mobile_footer.jpg)
