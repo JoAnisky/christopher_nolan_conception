@@ -55,13 +55,13 @@ C'est son équipe qui s'occupe de gérer sa boite mail et sa femme qui gère tou
 **Arborescence du site**
   
   
-  - Home >
+  - Home 
   > News  
   > About
-  - Gallery >
-  > Images Gallery
-  - Contact >
-  > Contact form
+  - Gallery
+  > Gallerie d'images de tournage
+  - Contact
+  > Formulaire de contact
 
 **Description fonctionnelle**
   - Pop-up sur la page d'accueil pour abonnement à une newsletter.
@@ -113,8 +113,8 @@ Proposition de design pour le header
 
 ![Desktop Content Zoning](images/zoning_desktop_content.jpg)
  
-## A.7 - Maquetter contenu principal
-![MAquette Principal content](images/maquette_desktop_content.jpg)
+## A.7 - Maquetter contenu principal 
+![Maquette Contenu principal](images/maquette_desktop_content.jpg)
 ## A.8 - Maquetter le pied de page
 ![Maquette footer](images/maquette_desktop_footer.jpg)
-## A.9 - Responsive
+## A.9 - Responsive 
