@@ -64,7 +64,6 @@ C'est son équipe qui s'occupe de gérer sa boite mail et sa femme qui gère tou
   > Formulaire de contact
 
 **Description fonctionnelle**
-  - Pop-up sur la page d'accueil pour abonnement à une newsletter.
   - Formulaire de contact.
   - Galerie.
   - Page login.
