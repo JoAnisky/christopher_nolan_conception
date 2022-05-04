@@ -96,7 +96,7 @@ _Sources_ :
 
 ## A.4 - Design System
 
-![Design System](images/design_system.jpg)
+![Design System](images/design-wireframe/design_system.jpg)
 
 Github > [DesignSystem Christopher Nolan](christopher_nolan_research.fig).
 
@@ -106,30 +106,30 @@ Proposition de design pour le header
 - Image de décoration qui récapitule les plus grands succès de Christopher Nolan. Effet "objectif" de caméra pour rappeller le cinéma.
 -  Mise en avant du nom du réalisateur.
   
-![Maquette](images/desktop_header.jpg)
+![Maquette](images/design-wireframe/desktop_header.jpg)
 
 ## A.6- Zoning contenu principal
 
-![Desktop Content Zoning](images/zoning_desktop_content.jpg)
+![Desktop Content Zoning](images/design-wireframe/zoning_desktop_content.jpg)
  
 ## A.7 - Maquetter contenu principal 
-![Maquette Contenu principal](images/maquette_desktop_content.jpg)
+![Maquette Contenu principal](images/design-wireframe/maquette_desktop_content.jpg)
 ## A.8 - Maquetter le pied de page
-![Maquette footer](images/maquette_desktop_footer.jpg)
+![Maquette footer](images/design-wireframe/maquette_desktop_footer.jpg)
 ## A.9 - Responsive 
 
 _Zoning mobile content_
 
-![Zoning mobile content](images/zoning_mobile_content.png)
+![Zoning mobile content](images/design-wireframe/zoning_mobile_content.png)
 
 _Maquette Mobile Header_
 
-![Maquette Mobile Header](images/mobile_header.jpg)
+![Maquette Mobile Header](images/design-wireframe/mobile_header.jpg)
 
 _Mobile Content_
 
-![Maquette Mobile Content](images/maquette_mobile_content.jpg)
+![Maquette Mobile Content](images/design-wireframe/maquette_mobile_content.jpg)
 
 _Mobile Footer_
 
-![Maquette Mobile Footer](images/mobile_footer.jpg)
+![Maquette Mobile Footer](images/design-wireframe/mobile_footer.jpg)
