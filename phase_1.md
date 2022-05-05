@@ -53,19 +53,25 @@ C'est son équipe qui s'occupe de gérer sa boite mail et sa femme qui gère tou
   Nolan ne possède aucun site web mais on peut s'inspirer des sites d'autres réalisateurs.
 
 **Arborescence du site**
-  
-  
+  Le site se presentera sous la forme d'un "one page".
+  Des ancres seront placées dans le menu et permettront d'atteindre les différentes sections de la page.
+  - Header 
+  > Barre de navigation.
   - Home 
-  > News  
-  > About
+  > A propos de Christopher Nolan.
+
+  - Coming soon
+  > Bande-annonces et description des projets à venir.
   - Gallery
-  > Gallerie d'images de tournage
-  - Contact
-  > Formulaire de contact
+  > Galerie de photos de tournage
+
+- Abonnement à la newletter
 
 **Description fonctionnelle**
+
   - Formulaire de contact.
   - Galerie.
+  - Inscription à la newletter
   - Page login.
   - Page Backoffice.
 
