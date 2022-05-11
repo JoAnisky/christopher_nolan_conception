@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>phase_1.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<h1 id="sommaire-de-la-phase-1">Sommaire de la phase 1</h1>
+<h4 id="a1---analyse">A.1 - <a href="##A.1.a">Analyse</a></h4>
+<h4 id="a2---cahier-des-charges">A.2 - <a href="##A.2">Cahier des charges</a></h4>
+<h4 id="a3---planche-de-tendances-moodboard">A.3 - <a href="##A.3">Planche de tendances “moodboard”</a></h4>
+<h4 id="a4---design-system">A.4 - <a href="##A.4">Design System</a></h4>
+<h4 id="a5---maquetter-le-header">A.5 - <a href="##A.5">Maquetter le Header</a></h4>
+<h4 id="a6---zoning-contenu-principal">A.6 - <a href="##A.6">Zoning contenu principal</a></h4>
+<h4 id="a7---maquetter-le-contenu-principal">A.7 - <a href="##A.7">Maquetter le contenu principal</a></h4>
+<h4 id="a8---maquetter-le-pied-de-page">A.8 - <a href="##A.8">Maquetter le pied de page</a></h4>
+<h4 id="a9---responsive">A.9 - <a href="##A.9">Responsive</a></h4>
+<h2 id="a1a---analyse">A.1.a - Analyse</h2>
+<p><em>Qui est Christopher Nolan ?</em></p>
+<p><strong>Christopher</strong> <em>Jonathan James</em> <strong>Nolan</strong> est un réalisateur, producteur, scénariste et monteur de cinéma britannico-américain.<br>
+Il est né le 30 juillet 1970 à Westminster (Londres).</p>
+<p>Il se fait connaitre par un premier long métrage, <em>Following</em> qui a été tourné en noir et blanc et dans lequel il endosse plusieurs casquettes, notamment celles de directeur de la photographie, scénariste et réalisateur.<br>
+Le film est présenté en 1998 au festival du film de Toronto.
+Il remporte trois prix ce qui va lui permettre de se lancer dans la mise en scène du script présenté à Newmarket Films : <em>Memento</em>.<br>
+Ce dernier a totalisé près de 40 millions dollars au box-office, c'est un grand succès.</p>
+<p>Les films qui l'ont rendu célèbre par la suite sont <em>Memento</em>, <em>The Dark Knight</em>, <em>Inception</em> ou encore <em>Interstellar</em></p>
+<p>Il est cofondateur, avec <em>Emma Thomas</em>  sa femme, de sa propre societé de production <em>Syncopy Films</em>.</p>
+<p><img src="images/Christopher-Nolan.jpg" alt="Christopher Nolan réalisateur"></p>
+<h2 id="a1b---identit%C3%A9-visuelle">A.1.b - Identité visuelle</h2>
+<p>Son œuvre explore la moralité humaine. Elle se nourrie des préoccupations philosophiques, sociologiques ou éthiques, la construction du temps et la malléabilité de la mémoire et de l'identité personnelle.</p>
+<p>Sa societé de production Syncopy Inc. possède un logo :<br>
+<img src="images/syncopy.jpg" alt="Syncopy inc."></p>
+<h2 id="a1c---strat%C3%A9gie-digitale">A.1.c - Stratégie digitale</h2>
+<p><strong>Constat</strong></p>
+<p>Christopher Nolan ne possède ni site web ni réseaux sociaux, il a même dit qu'il n'utilisait pas de téléphone portable.<br>
+Il ne déteste pas la technologie mais cela ne l'a jamais interessé et il interdit même l'usage des mobiles sur ses tournages.<br>
+C'est son équipe qui s'occupe de gérer sa boite mail et sa femme qui gère toutes les affaires liées à leur maison de production : Syncopy Inc.</p>
+<h2 id="a2---cahier-des-charges">A.2 - Cahier des charges</h2>
+<p><em><strong>JoAnisky</strong></em> est developpeur freelance. Son objectif est de rendre le web facile, moderne et accessible à tous.</p>
+<p><strong>La cible du site web</strong> :<br>
+Le grand public qui apprécie le cinéma.
+Tous les fans des films de Nolan et de la science fiction en général.</p>
+<p><strong>État des lieux de l’existant</strong></p>
+<p>Nolan ne possède aucun site web mais on peut s'inspirer des sites d'autres réalisateurs.</p>
+<p><strong>Arborescence du site</strong></p>
+<ul>
+<li>Home</li>
+</ul>
+<blockquote>
+<p>News<br>
+About</p>
+</blockquote>
+<ul>
+<li>Gallery</li>
+</ul>
+<blockquote>
+<p>Gallerie d'images de tournage</p>
+</blockquote>
+<ul>
+<li>Contact</li>
+</ul>
+<blockquote>
+<p>Formulaire de contact</p>
+</blockquote>
+<p><strong>Description fonctionnelle</strong></p>
+<ul>
+<li>Formulaire de contact.</li>
+<li>Galerie.</li>
+<li>Page login.</li>
+<li>Page Backoffice.</li>
+</ul>
+<h2 id="a3---planche-de-tendance">A.3 - Planche de tendance</h2>
+<blockquote>
+<p>Pour faciliter le projet, tout le travail de recherche graphique (Benchmark, moodboard, maquettes etc...) est centralisé dans le fichier  Figma &quot;moodboard.fig&quot;
+Disponible sur Github <a href="https://www.figma.com/file/4abkPllyaOBX3cxBcNeEcZ/christopher_nolan_research">Benchmark/Moodboard Christopher Nolan</a>.</p>
+</blockquote>
+<p><strong>Benchmark</strong></p>
+<p><img src="images/benchmark.jpg" alt="Benchmark">
+<em>Sources</em> :</p>
+<p><a href="https://www.spielbergfilmarchive.org.il/" title="Spielberg Website">Spielberg Website</a></p>
+<p><a href="https://www.tarantino.info/" title="Quentin Tarantino Website">Quentin Tarantino Website</a></p>
+<p><a href="https://www.snydercut.com/" title="Zack Snyder Website">Zack Snyder Website</a></p>
+<p><strong>Moodboard</strong></p>
+<p><img src="images/moodboard.jpg" alt="Moodboard"></p>
+<p><strong>Inspiration</strong></p>
+<p><img src="images/inspiration.png" alt="Moodboard"></p>
+<h2 id="a4---design-system">A.4 - Design System</h2>
+<p><img src="images/design-wireframe/design_system.jpg" alt="Design System"></p>
+<p>Github &gt; <a href="https://www.figma.com/file/4abkPllyaOBX3cxBcNeEcZ/christopher_nolan_research">DesignSystem Christopher Nolan</a>.</p>
+<h2 id="a5---maquetter-le-header">A.5 - Maquetter le Header</h2>
+<p>Proposition de design pour le header</p>
+<ul>
+<li>Barre de navigation haute.</li>
+<li>Image de décoration qui récapitule les plus grands succès de Christopher Nolan. Effet &quot;objectif&quot; de caméra pour rappeller le cinéma.</li>
+<li>Mise en avant du nom du réalisateur.</li>
+</ul>
+<p><img src="images/design-wireframe/desktop_header.jpg" alt="Maquette"></p>
+<h2 id="a6--zoning-contenu-principal">A.6- Zoning contenu principal</h2>
+<p><img src="images/design-wireframe/zoning_desktop_content.jpg" alt="Desktop Content Zoning"></p>
+<h2 id="a7---maquetter-contenu-principal">A.7 - Maquetter contenu principal</h2>
+<p><img src="images/design-wireframe/maquette_desktop_content.jpg" alt="Maquette Contenu principal"></p>
+<h2 id="a8---maquetter-le-pied-de-page">A.8 - Maquetter le pied de page</h2>
+<p><img src="images/design-wireframe/maquette_desktop_footer.jpg" alt="Maquette footer"></p>
+<h2 id="a9---responsive">A.9 - Responsive</h2>
+<p><em>Zoning mobile content</em></p>
+<p><img src="images/design-wireframe/zoning_mobile_content.png" alt="Zoning mobile content"></p>
+<p><em>Maquette Mobile Header</em></p>
+<p><img src="images/design-wireframe/mobile_header.jpg" alt="Maquette Mobile Header"></p>
+<p><em>Mobile Content</em></p>
+<p><img src="images/design-wireframe/maquette_mobile_content.jpg" alt="Maquette Mobile Content"></p>
+<p><em>Mobile Footer</em></p>
+<p><img src="images/design-wireframe/mobile_footer.jpg" alt="Maquette Mobile Footer"></p>
+
+</body>
+</html>

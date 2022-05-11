@@ -27,7 +27,59 @@ Il est cofondateur, avec _Emma Thomas_  sa femme, de sa propre societé de produ
 
 ![Christopher Nolan réalisateur](images/Christopher-Nolan.jpg)
 
-## A.1.b - Identité visuelle
+## A.1.b - Filmographie
+**2023**
+_Oppenheimer_
+
+**2020**
+_Tenet_
+
+**2019**
+_Untitled Howard Hughes Biopic_
+
+**2017**
+_Dunkerque_
+
+**2015**
+_Quay_
+
+**2014**
+_Interstellar_
+
+**2012**
+_The Dark Knight Rises_
+
+**2010**
+_Inception_
+
+**2008**
+_The Dark Knight, Le Chevalier Noir_
+
+**2006**
+_Cinema 16 : European short films_
+
+**2006**
+_Le Prestige_
+
+**2005**
+_Batman Begins_
+
+**2003**
+_Cinema 16 : British Short Films_
+
+**2002**
+_Insomnia_
+
+**2000**
+_Memento_
+
+**1998**
+_Following, le suiveur_
+
+**1997**
+_Doodlebug_
+
+## A.1.c - Identité visuelle
 Son œuvre explore la moralité humaine. Elle se nourrie des préoccupations philosophiques, sociologiques ou éthiques, la construction du temps et la malléabilité de la mémoire et de l'identité personnelle.  
 
 Sa societé de production Syncopy Inc. possède un logo :  
