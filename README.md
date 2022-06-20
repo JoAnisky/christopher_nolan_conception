@@ -67,14 +67,14 @@ Créer la maquette graphique du header de votre page web en choisissant parmi le
 
 ### Itération #A.7 - Maquetter le contenu principal
 
-Créer la maquette graphique du contenu de votre page web composition graphique dans Photoshop
+Créer la maquette graphique du contenu de votre page web composition graphique dans Figma
 - Tenir compte de votre Design System
 - Maquetter en tenant compte de votre zoning
 
 ### Itération #A.8- Maquetter le pied de page
 
 Créer la maquette graphique du pied de page de votre page web en choisissant parmi les 2 zoning proposés :
-- 1 composition graphique dans Photoshop
+- 1 composition graphique dans Figma
 - Présence de 2 à 3 textes
 - Intégration à minima d’un web font et de deux au maximum.
 - Présence du formulaire d’inscription à la newsletter
@@ -111,12 +111,8 @@ o Page Backoffice
 
 - Réaliser le responsive du backend
 
-### Itération #A.10 Conception de la newsletter ###
-
-- Réaliser la maquette du Template de la newsletter.
-
 ## Intégrer et dynamiser votre premier site web et son interface d’administration ##
-
+Projet disponible sur le repo Github [christopher_nolan_website](https://github.com/JoAnisky/christopher_nolan_website)
 ### Itération # B.1 : Extraire les éléments nécessaires à l’intégration ###
 
 À partir du fichier Photoshop fourni, extraire les ressources nécessaires à l’intégration

@@ -129,7 +129,7 @@ C'est son équipe qui s'occupe de gérer sa boite mail et sa femme qui gère tou
 
 ## A.3 - Planche de tendance
 > Pour faciliter le projet, tout le travail de recherche graphique (Benchmark, moodboard, maquettes etc...) est centralisé dans le fichier  Figma "moodboard.fig"
-Disponible sur Github [Benchmark/Moodboard Christopher Nolan](https://www.figma.com/file/4abkPllyaOBX3cxBcNeEcZ/christopher_nolan_research).
+Disponible sur Figma [Benchmark/Moodboard Christopher Nolan](https://www.figma.com/file/4abkPllyaOBX3cxBcNeEcZ/christopher_nolan_research).
 
 **Benchmark**
 
@@ -156,7 +156,7 @@ _Sources_ :
 
 ![Design System](images/design-wireframe/design_system.jpg)
 
-Github > [DesignSystem Christopher Nolan](https://www.figma.com/file/4abkPllyaOBX3cxBcNeEcZ/christopher_nolan_research).
+Figma > [DesignSystem Christopher Nolan](https://www.figma.com/file/4abkPllyaOBX3cxBcNeEcZ/christopher_nolan_research).
 
 ## A.5 - Maquetter le Header
 Proposition de design pour le header 
@@ -176,10 +176,10 @@ Proposition de design pour le header
 ## A.8 - Maquetter le pied de page
 ![Maquette footer](images/design-wireframe/maquette_desktop_footer.jpg)
 
-## Maquette page Login ##
+## A.8 - Maquette page Login ##
 ![Maquette page Login ](images/design-wireframe/maquette_desktop_admin_login.png)
 
-## Maquette Dashboard ##
+## A.8 - Maquette Dashboard ##
 ![Maquette page Dashboard ](images/design-wireframe/maquette_desktop_dashboard.png)
 ## A.9 - Responsive 
 
