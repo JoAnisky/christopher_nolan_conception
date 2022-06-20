@@ -172,13 +172,20 @@ Proposition de design pour le header
  
 ## A.7 - Maquetter contenu principal 
 ![Maquette Contenu principal](images/design-wireframe/maquette_desktop_content.jpg)
+
 ## A.8 - Maquetter le pied de page
 ![Maquette footer](images/design-wireframe/maquette_desktop_footer.jpg)
+
+## Maquette page Login ##
+![Maquette page Login ](images/design-wireframe/maquette_desktop_admin_login.png)
+
+## Maquette Dashboard ##
+![Maquette page Dashboard ](images/design-wireframe/maquette_desktop_dashboard.png)
 ## A.9 - Responsive 
 
 _Zoning mobile content_
 
-![Zoning mobile content](images/design-wireframe/zoning_mobile_content.png)
+![Zoning mobile content](images/design-wireframe/zoning_mobile_content.jpg)
 
 _Maquette Mobile Header_
 
@@ -191,3 +198,6 @@ _Mobile Content_
 _Mobile Footer_
 
 ![Maquette Mobile Footer](images/design-wireframe/mobile_footer.jpg)
+
+## B.12 - MPD ##
+![MPD Schéma](images/design-wireframe/mpd.PNG)
